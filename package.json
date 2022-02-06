@@ -1,0 +1,19 @@
+{
+  "name": "source-code-classifier",
+  "version": "1.0.0",
+  "description": "A neural network that identify  a programming language from a source code snippet ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "neural_network",
+    "source_code_classifier"
+  ],
+  "type": "module",
+  "author": "Jonathan Onderi",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.0"
+  }
+}
